@@ -86,7 +86,7 @@ export default function TemplateMarketplace() {
     },
     {
       id: 2,
-      name: "Wabi-Sabi Portfolio",
+      name: "Wabi-Sabi Portfolio and SaaS",
       category: "portfolio",
       description: "Imperfect beauty for creatives",
       price: 39,
